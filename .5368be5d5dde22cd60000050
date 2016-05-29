@@ -1,12 +1,12 @@
 ---
-time: 1461271971
+time: 1464517619
 inventory:
   "/hallo/index.html":
-    md5: b18cb350305d7fcfeb81a4fb3429513d
-    time: 1461271968
+    md5: 497bec379b86e90f464b0ea535400fa6
+    time: 1464517616
   "/index.html":
-    md5: b18cb350305d7fcfeb81a4fb3429513d
-    time: 1461271968
+    md5: 497bec379b86e90f464b0ea535400fa6
+    time: 1464517616
   "/kontakt/index.html":
     md5: 31aa34fc6baf7bc952270fc146707cb1
     time: 1461271968
@@ -23,11 +23,11 @@ inventory:
     md5: d529e3b8e46e9a1e1db1b5865c5afe40
     time: 1461268061
   "/sitemap.xml":
-    md5: 031ace9cff7af1482aaefe5aeb775665
-    time: 1461268061
+    md5: a591ba009d46280b8d680d0232896f2f
+    time: 1464517616
   "/feed.xml":
-    md5: c5b5d40bcde84f3bc632eac1e2d8b25a
-    time: 1461271969
+    md5: e1e4d8b428a9a2256a34b094357507cd
+    time: 1464517616
   "/assets/pfadfinderstamm_totila_600x175.jpg":
     md5: c30b224243dbf92f2b3c77227c87e9cd
     time: 1461268062
@@ -163,6 +163,9 @@ inventory:
   "/assets/30Jahre_VCP-Totila_Plakat.jpg":
     md5: 12323e142d00a529ba3b720d48ff6eb1
     time: 1461268066
+  "/assets/totila-schwan_110x110_1986.png":
+    md5: df449b795fa0f6d605a4f18789c45986
+    time: 1464517617
   "/assets/vcp-totila_auf_fahrt.jpg":
     md5: 7c01f3d1bb4dfd1fd245acea6f681989
     time: 1461268066

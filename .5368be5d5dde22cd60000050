@@ -1,18 +1,18 @@
 ---
-time: 1464517619
+time: 1466223466
 inventory:
   "/hallo/index.html":
-    md5: 497bec379b86e90f464b0ea535400fa6
-    time: 1464517616
+    md5: f5a9ca2c140952a5c946abb42ac8bd1a
+    time: 1466223464
   "/index.html":
-    md5: 497bec379b86e90f464b0ea535400fa6
-    time: 1464517616
+    md5: f5a9ca2c140952a5c946abb42ac8bd1a
+    time: 1466223464
   "/kontakt/index.html":
     md5: 31aa34fc6baf7bc952270fc146707cb1
     time: 1461271968
   "/aktuelles/index.html":
-    md5: 48c08f5e81554ad2facb203e3c3e83c4
-    time: 1461271968
+    md5: 72435cbebe4e0ed4400fa8366556ec7c
+    time: 1466223464
   "/impressum/index.html":
     md5: 91193895de4fc5fe78e5579755b17c15
     time: 1461271969
@@ -23,11 +23,11 @@ inventory:
     md5: d529e3b8e46e9a1e1db1b5865c5afe40
     time: 1461268061
   "/sitemap.xml":
-    md5: a591ba009d46280b8d680d0232896f2f
-    time: 1464517616
+    md5: b960fd24053696c37f4f5ebd53bc99c7
+    time: 1466223464
   "/feed.xml":
-    md5: e1e4d8b428a9a2256a34b094357507cd
-    time: 1464517616
+    md5: 57ce8326d2444c0188885b082c056bdf
+    time: 1466223464
   "/assets/pfadfinderstamm_totila_600x175.jpg":
     md5: c30b224243dbf92f2b3c77227c87e9cd
     time: 1461268062

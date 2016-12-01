@@ -1,24 +1,24 @@
 ---
-time: 1480585117
+time: 1480585678
 inventory:
   "/hallo/index.html":
-    md5: f5a9ca2c140952a5c946abb42ac8bd1a
-    time: 1466223464
+    md5: c2880a3684361352e8da5bc5dabac8f4
+    time: 1480585676
   "/index.html":
-    md5: f5a9ca2c140952a5c946abb42ac8bd1a
-    time: 1466223464
+    md5: c2880a3684361352e8da5bc5dabac8f4
+    time: 1480585676
   "/kontakt/index.html":
-    md5: 55fef281785d5827fa5bfb5194bb8ac7
-    time: 1480585116
+    md5: 5d52a946dc16aa25633d310e8c40b842
+    time: 1480585676
   "/aktuelles/index.html":
-    md5: 72435cbebe4e0ed4400fa8366556ec7c
-    time: 1466223464
+    md5: 9dc76d99a95f834b3affb557b3f0c93b
+    time: 1480585676
   "/impressum/index.html":
-    md5: 91193895de4fc5fe78e5579755b17c15
-    time: 1461271969
+    md5: 4af258d92b881af3b8f3cf52f0a04347
+    time: 1480585676
   "/aktuelles/30-jahre-vcp-stamm-totila/index.html":
-    md5: 355f25f6b0ec1b3fd053cb12676b13e8
-    time: 1461271969
+    md5: 54e4e12c8a0a9bfcefd71082a81249fc
+    time: 1480585676
   "/CNAME":
     md5: d529e3b8e46e9a1e1db1b5865c5afe40
     time: 1461268061
@@ -26,8 +26,8 @@ inventory:
     md5: cd5c6a2f0bc96634a07ec0c60f597bae
     time: 1480585116
   "/feed.xml":
-    md5: 29b1ae72797b058d8837b3c14e7a36c0
-    time: 1480585116
+    md5: 2960f2c699582cb79073f50f6c1cc9a2
+    time: 1480585676
   "/assets/pfadfinderstamm_totila_600x175.jpg":
     md5: c30b224243dbf92f2b3c77227c87e9cd
     time: 1461268062

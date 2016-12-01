@@ -1,5 +1,5 @@
 ---
-time: 1466223466
+time: 1480585117
 inventory:
   "/hallo/index.html":
     md5: f5a9ca2c140952a5c946abb42ac8bd1a
@@ -8,8 +8,8 @@ inventory:
     md5: f5a9ca2c140952a5c946abb42ac8bd1a
     time: 1466223464
   "/kontakt/index.html":
-    md5: 31aa34fc6baf7bc952270fc146707cb1
-    time: 1461271968
+    md5: 55fef281785d5827fa5bfb5194bb8ac7
+    time: 1480585116
   "/aktuelles/index.html":
     md5: 72435cbebe4e0ed4400fa8366556ec7c
     time: 1466223464
@@ -23,11 +23,11 @@ inventory:
     md5: d529e3b8e46e9a1e1db1b5865c5afe40
     time: 1461268061
   "/sitemap.xml":
-    md5: b960fd24053696c37f4f5ebd53bc99c7
-    time: 1466223464
+    md5: cd5c6a2f0bc96634a07ec0c60f597bae
+    time: 1480585116
   "/feed.xml":
-    md5: 57ce8326d2444c0188885b082c056bdf
-    time: 1466223464
+    md5: 29b1ae72797b058d8837b3c14e7a36c0
+    time: 1480585116
   "/assets/pfadfinderstamm_totila_600x175.jpg":
     md5: c30b224243dbf92f2b3c77227c87e9cd
     time: 1461268062

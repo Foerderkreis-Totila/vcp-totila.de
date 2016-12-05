@@ -1,12 +1,12 @@
 ---
-time: 1480586647
+time: 1480970241
 inventory:
   "/hallo/index.html":
-    md5: c2880a3684361352e8da5bc5dabac8f4
-    time: 1480585676
+    md5: 2832905444d3af98ab74db482091ad30
+    time: 1480970237
   "/index.html":
-    md5: c2880a3684361352e8da5bc5dabac8f4
-    time: 1480585676
+    md5: 2832905444d3af98ab74db482091ad30
+    time: 1480970237
   "/kontakt/index.html":
     md5: 411d1a242ad42d1c880f6ab0975d115c
     time: 1480586645
@@ -23,11 +23,11 @@ inventory:
     md5: d529e3b8e46e9a1e1db1b5865c5afe40
     time: 1461268061
   "/sitemap.xml":
-    md5: e239e213986ec00da60d3d3e536e60b4
-    time: 1480586646
+    md5: b056cd4729d9b1df29dabbfcba02dd35
+    time: 1480970238
   "/feed.xml":
-    md5: 26b964b93fa7119397e4b57af0b90d86
-    time: 1480586646
+    md5: 663e002cf2bedd9e9845a704b2a1a11a
+    time: 1480970238
   "/assets/pfadfinderstamm_totila_600x175.jpg":
     md5: c30b224243dbf92f2b3c77227c87e9cd
     time: 1461268062
@@ -166,6 +166,12 @@ inventory:
   "/assets/totila-schwan_110x110_1986.png":
     md5: df449b795fa0f6d605a4f18789c45986
     time: 1464517617
+  "/assets/Goodingde_Weihnachtsgrafik-Geschenke-mittel.png":
+    md5: 37e54a50b0b078cc3804f69395ff4848
+    time: 1480970238
+  "/assets/Goodingde_Weihnachtsgrafik-Geschenke-klein.png":
+    md5: a47536d191f102edc0bb82744a7b3520
+    time: 1480970239
   "/assets/vcp-totila_auf_fahrt.jpg":
     md5: 7c01f3d1bb4dfd1fd245acea6f681989
     time: 1461268066

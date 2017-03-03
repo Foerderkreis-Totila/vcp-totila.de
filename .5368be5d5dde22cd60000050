@@ -1,5 +1,5 @@
 ---
-time: 1488534234
+time: 1488534260
 inventory:
   "/hallo/index.html":
     md5: 5e2484b6c5667bb2d364f6280cebcd4d
@@ -187,6 +187,9 @@ inventory:
   "/assets/VCP-Totila_Weihnachtskarte_2016_Seite2.jpg":
     md5: 45b44dbc3d5cce04f4fee9b382805d74
     time: 1482528016
+  "/assets/online-einkaufen-verein-unterstuetzen-klein.png":
+    md5: 872860c6606c4ecdee7fc30f6f0dd973
+    time: 1488534260
   "/assets/vcp-totila_auf_fahrt.jpg":
     md5: 7c01f3d1bb4dfd1fd245acea6f681989
     time: 1461268066

@@ -1,6 +1,7 @@
 ---
 title: "Kontakt"
 description: "Ansprechpartner — unsere Stammesführung"
+featured_image: "/img/vcp-totila-zelteammeer-hero-image-1440x642.jpg"
 ---
 
 Auf dem vorletzten Stammesthing, am 18. November 2016, haben wir mit Michael, Teresa und Ralph unsere neue Stammesführung gewählt und mit Basti und Tobias unsere Kassiere.

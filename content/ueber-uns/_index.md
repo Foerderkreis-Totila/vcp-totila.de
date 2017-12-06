@@ -1,6 +1,7 @@
 ---
 title: "Über uns"
 description: "Der Stamm Totila stellt sich vor"
+featured_image: "/img/vcp-totila-pfadis-hero-image-1440x642.jpg"
 ---
 
 Heimat des Stammes ist die [ev.-luth. Kirchengemeinde in Karlshuld](http://www.karlshuld-evangelisch.de/).

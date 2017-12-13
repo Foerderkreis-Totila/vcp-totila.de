@@ -1,6 +1,6 @@
 ---
 title: "Pfadfinderstamm VCP Totila Karlshuld"
-description: "„Scouting for Mössler“ — seit über 30 Jahren"
+description: "„Scouting for Möösler“ — seit über 30 Jahren"
 ---
 
 **Herzlich willkommen auf der Homepage des Pfadfinderstamm VCP Totila Karlshuld**

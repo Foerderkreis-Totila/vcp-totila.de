@@ -38,6 +38,10 @@ PygmentsCodeFences = true
       name = "Kontakt"
       url = "/kontakt/"
       weight = 2
+  [[menu.main]]
+      name = "Aktuelles"
+      url = "/aktuelles/"
+      weight = 3   
 
  [[menu.footer]]
       name = "Aktuelles"

@@ -5,6 +5,12 @@ description: "„Scouting for Möösler“ ¹⁾ — seit über 30 Jahren"
 
 **Herzlich willkommen auf der Homepage des Pfadfinderstamm VCP Totila Karlshuld**
 
+[![Weihnachtskarte 2017, 1. Seite](/assets/xmas2017_1.jpeg)](/assets/VCP-Totila_Weihnachtskarte_2017_web.pdf)
+[![Weihnachtskarte 2017, 2. Seite](/assets/xmas2017_2.jpeg)](/assets/VCP-Totila_Weihnachtskarte_2017_web.pdf)
+[Weihnachtskarte herunterladen (PDF)](/assets/VCP-Totila_Weihnachtskarte_2017_web.pdf)
+
+❤
+
 Der Pfadfinderstamm ist Mitglied im [Verband Christlicher Pfadfinderinnen und Pfadfinder e.V. (VCP) ![VCP-Zeichen (Lilie, Wortbildmarke)](/assets/VCP-Wortbildmarke-RGB-400px.png)](http://www.vcp.de/)
 
 <div class="flex items-center justify-center pa4">

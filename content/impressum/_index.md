@@ -14,7 +14,7 @@ Florian-Wengenmayr-Str. 34<br>
 ☎&nbsp;+49(0) 170 2370143<br>
 ✉&nbsp;webmaster@vcp-totila.de<br>
 
-**Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:**<br>
+**Verantwortlich für den Inhalt (gemäß § 55 Abs. 2 RStV) und die Erhebung, Verarbeitung und Nutzung Ihrer personenbezogenen Daten im Sinne des Bundesdatenschutzgesetzes (BDSG):**<br>
 Matthias Geisler (Anschrift wie oben)
 
 **Haftungshinweis:**<br>

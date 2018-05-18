@@ -51,7 +51,11 @@ PygmentsCodeFences = true
       name = "Impressum"
       url = "/impressum/"
       weight = 2
+ [[menu.footer]]
+      name = "Datenschutz"
+      url = "/datenschutz/"
+      weight = 3
   [[menu.footer]]
       name = "Kontakt"
       url = "/kontakt/"
-      weight = 3
+      weight = 4

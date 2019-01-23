@@ -4,33 +4,27 @@ description: "Ansprechpartner — unsere Stammesführung"
 featured_image: "/img/vcp-totila-zelteammeer-hero-image-1440x642.jpg"
 ---
 
-Auf dem vorletzten Stammesthing, am 18. November 2016, haben wir mit Michael, Teresa und Ralph unsere neue Stammesführung gewählt und mit Basti und Tobias unsere Kassiere.
+Auf dem letzten Stammesthing, am 13. Oktober 2018, haben wir mit Tobias, Teresa und Sandra unsere neue Stammesführung gewählt und mit Basti und Tobias unsere Kassiere.
 
-**Michael Polzin**
-<br>Schultheißstr. 41
-<br>85049 Ingolstadt
-<br>☎&nbsp;+49(0) 170 4242735
-<br>✉&nbsp;michael.polzin@vcp-totila.de
+**Tobias Ordosch**
+<br>☎&nbsp;+49(0) 172 3665639
+<br>✉&nbsp;tobias.ordosch@vcp-totila.de
 
 **Teresa Hammer**
-<br>Ingolstädterstr. 177c
-<br>86668 Karlshuld
 <br>☎&nbsp;+49(0) 157 86887425
 <br>✉&nbsp;teresa.hammer@vcp-totila.de
 
-**Ralph Schuster**
-<br>Ingolstädterstr. 24
-<br>86668 Karlshuld
-<br>☎&nbsp;+49(0) 157 75727432
-<br>✉&nbsp;ralph.schuster@vcp-totila.de
+**Sandra Schnell**
+<br>☎&nbsp;+49(0) 0151 55363302
+<br>✉&nbsp;sandra.schnell@vcp-totila.de
 
 Natürlich stehen die drei Stafüs und die Kassiere nicht alleine da. Sie werden von unserem Leiterkreis in allen Belangen tatkräftig unterstützt! ☺
 
 ## Anschrift
 
 **VCP Stamm Totila Karlshuld**
-<br>*c/o Michael Polzin*
-<br>Schultheißstr. 41
-<br>85049 Ingolstadt
-<br>☎&nbsp;+49(0) 170 4242735
+<br>*c/o Tobias Ordosch*
+<br>Ingolstädterstraße 51b
+<br>86669 Königsmoos
+<br>☎&nbsp;+49(0) 172 3665639
 <br>✉&nbsp;kontakt@vcp-totila.de

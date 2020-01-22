@@ -1,0 +1,16 @@
+[build]
+  command = "git submodule update --init --recursive --depth=1 && hugo --cleanDestinationDir --minify"
+  publish = "public"
+  environment = { HUGO_ENV = "production" }
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.57.2"
+
+[context.production.environment]
+  HUGO_VERSION = "0.57.2"
+
+[[redirects]]
+  from = "https://vcp-totila-de.netlify.com/*"
+  to = "https://vcp-totila.de/:splat"
+  status = 301
+  force = true

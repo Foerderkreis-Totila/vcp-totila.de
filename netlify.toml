@@ -4,10 +4,10 @@
   environment = { HUGO_ENV = "production" }
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.57.2"
+  HUGO_VERSION = "0.78.2"
 
 [context.production.environment]
-  HUGO_VERSION = "0.57.2"
+  HUGO_VERSION = "0.78.2"
 
 [[redirects]]
   from = "https://vcp-totila-de.netlify.com/*"

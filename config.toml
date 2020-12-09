@@ -11,6 +11,9 @@ googleAnalytics = ""
 enableRobotsTXT = true
 PygmentsCodeFences = true
 
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5

@@ -3,7 +3,7 @@ title: "Einladung der Pfadfinder zur Waldweihnacht 2017"
 date: 2017-12-18T00:19:36+02:00
 tags:
 - Waldweihnacht
-draft: false
+draft: true
 ---
 
 Die Pfadfinderinnen und Pfadfinder des Stammes Totila Karlshuld laden auch in diesem Jahr wieder herzlich zur Waldweihnacht am Leitnerweiher ein!

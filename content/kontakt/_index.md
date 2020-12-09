@@ -4,15 +4,11 @@ description: "Ansprechpartner — unsere Stammesführung"
 featured_image: "/img/vcp-totila-zelteammeer-hero-image-1440x642.jpg"
 ---
 
-Auf dem letzten Stammesthing, am 13. Oktober 2018, haben wir mit Tobias, Teresa und Sandra unsere neue Stammesführung gewählt und mit Basti und Tobias unsere Kassiere.
+Auf dem letzten Stammesthing, am 10. Oktober 2020, haben wir mit Tobias und Sandra unsere neue Stammesführung gewählt und mit Maximilian unseren Kassier.
 
 **Tobias Ordosch**
 <br>☎&nbsp;+49(0) 172 3665639
 <br>✉&nbsp;tobias.ordosch@vcp-totila.de
-
-**Teresa Hammer**
-<br>☎&nbsp;+49(0) 157 86887425
-<br>✉&nbsp;teresa.hammer@vcp-totila.de
 
 **Sandra Schnell**
 <br>☎&nbsp;+49(0) 0151 55363302

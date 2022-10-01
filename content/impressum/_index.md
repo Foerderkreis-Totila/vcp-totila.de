@@ -7,8 +7,8 @@ VCP-Totila.de ist die offizielle Homepage des Pfadfinderstamm VCP Totila Karlshu
 Der Stamm ist Mitglied im [Verband Christlicher Pfadfinderinnen und Pfadfinder e.V. (VCP)](http://www.vcp.de/).
 
 **Anschrift Online Redaktion & Webmaster:**<br>
-Förderkreis des Stammes Totila Karlshuld e.V.<br>
-c/o Matthias Geisler<br>
+Matthias Geisler<br>
+c/o Förderkreis des Stammes Totila Karlshuld e.V.<br>
 Florian-Wengenmayr-Str. 34<br>
 86609 Donauwörth<br>
 ☎&nbsp;+49(0) 170 2370143<br>

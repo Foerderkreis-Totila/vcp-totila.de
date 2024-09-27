@@ -26,9 +26,9 @@ Sei mit dabei, bei einer ehrenamtlichen Gemeinschaft die seit 1984 bereits engag
 > **Immer im September, beginnen die neuen Gruppenstunden für die Neueinsteiger.**<br>Einstiegsalter: ab der dritten Schulklasse.
 
 Interesse? Dann melden Sie sich bei unserer Akela: <br>
-Monika Hammer <br>
-☎&nbsp;+49(0) 171 6996064 <br>
-✉&nbsp;<a href="mailto:meute@vcp-totila.de">meute@vcp-totila.de</a>.
+> Monika Hammer <br>
+> ☎&nbsp;+49(0) 171 6996064 <br>
+> ✉&nbsp;<a href="mailto:meute@vcp-totila.de">meute@vcp-totila.de</a>.
 
 Wir freuen uns auf dich!
 

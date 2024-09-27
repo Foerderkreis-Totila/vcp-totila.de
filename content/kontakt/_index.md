@@ -7,8 +7,8 @@ featured_image: "/img/vcp-totila-zelteammeer-hero-image-1440x642.jpg"
 Auf dem letzten Stammesthing, am 16. September 2022, haben wir mit Tobias und Leo unsere neue Stammesführung gewählt.
 
 **Tobias Ordosch**
-<br>☎&nbsp;+49(0) 172 3665639
-<br>✉&nbsp;tobias.ordosch@vcp-totila.de
+<br>☎&nbsp;+49(0) 171 9201474
+<br>✉&nbsp;vera.ordosch@vcp-totila.de
 
 **Leonhard Moosheimer** 
 <br>✉&nbsp;leonhard.moosheimer@vcp-totila.de 

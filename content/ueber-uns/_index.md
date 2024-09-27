@@ -25,7 +25,7 @@ Sei mit dabei, bei einer ehrenamtlichen Gemeinschaft die seit 1984 bereits engag
 
 > **Immer im September, beginnen die neuen Gruppenstunden für die Neueinsteiger.**<br>Einstiegsalter: ab der dritten Schulklasse.
 
-Interesse? Dann melden Sie sich bei unserer Akela: Barbara Huber ☎&nbsp;+49(0) 151 59868049.
+Interesse? Dann melden Sie sich bei unserer Akela: Monika Hammer ☎&nbsp;+49(0) 171 6996064.
 
 Wir freuen uns auf dich!
 

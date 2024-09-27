@@ -10,20 +10,21 @@ Auf dem letzten Stammesthing, am 21. September 2024, haben wir mit Vera, Sebasti
 
 **Vera Ordosch**
 <br>☎&nbsp;+49(0) 171 9201474
-<br>✉&nbsp;vera.ordosch@vcp-totila.de
+<br>✉&nbsp;<a href="mailto:vera.ordosch@vcp-totila.de">vera.ordosch@vcp-totila.de</a>
 
 **Sebastian Königer**
 <br>☎&nbsp;+49(0) 176 94958264
-<br>✉&nbsp;sebastian.koeniger@vcp-totila.de
+<br>✉&nbsp;<a href="mailto:sebastian.koeniger@vcp-totila.de">sebastian.koeniger@vcp-totila.de</a>
 
 **Leonhard Moosheimer**
 <br>☎&nbsp;+49(0) 175 9804683
-<br>✉&nbsp;leonhard.moosheimer@vcp-totila.de
+<br>✉&nbsp;<a href="mailto:leonhard.moosheimer@vcp-totila.de">leonhard.moosheimer@vcp-totila.de</a>
 
 **Kassier**
 
 **Maximilian Hörmann**
-<br>✉&nbsp;maximilian.hoermann@vcp-totila.de
+<br>✉&nbsp;<a href="mailto:maximilian.hoermann@vcp-totila.de">maximilian.hoermann@vcp-totila.de</a>
+
 
 Natürlich stehen die Stafüs und die Kassiere nicht alleine da. Sie werden von unserem Leiterkreis in allen Belangen tatkräftig unterstützt! ☺
 
@@ -34,4 +35,4 @@ Natürlich stehen die Stafüs und die Kassiere nicht alleine da. Sie werden von 
 <br>Zur Schweizwies 9
 <br>86706 Weichering
 <br>☎&nbsp;+49(0) 175 9804683
-<br>✉&nbsp;kontakt@vcp-totila.de
+<br>✉&nbsp;<a href="mailto:kontakt@vcp-totila.de">kontakt@vcp-totila.de</a>

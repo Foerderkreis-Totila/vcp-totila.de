@@ -1,7 +1,7 @@
 ---
 title: "Kontakt"
 description: "Ansprechpartner — unsere Stammesführung"
-featured_image: "/img/vcp-totila-zelteammeer-hero-image-1440x642.jpg"
+featured_image: "/assets/pfadis_lagerfeuer.jpeg"
 ---
 
 Auf dem letzten Stammesthing, am 21. September 2024, haben wir mit Vera, Sebastian und Leo unsere neue Stammesführung gewählt. Maximilian Hörmann stand für eine weitere Amtszeit von 2 Jahren als Kassier zur Verfügung. 

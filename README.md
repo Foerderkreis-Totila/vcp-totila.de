@@ -26,3 +26,14 @@ git checkout hugo
 ## Hugo
 
 [Shortcodes are simple snippets inside your content files calling built-in or custom templates.](https://gohugo.io/content-management/shortcodes/)
+
+
+Docker Command to run one DEV-Container: 
+```shell
+docker run --rm -it \ 
+  -p 1313:1313 \
+  -v "$PWD":/site \
+  -w /site \
+  klakegg/hugo:0.92.2-ext \
+  server -D --bind 0.0.0.0~
+```
